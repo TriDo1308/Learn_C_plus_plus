@@ -1,2 +1,3 @@
 # Learn_C++
-Learn Modern C++: From Intermediate to Advanced
+
+- Learn Modern C++: From Intermediate to Advanced (Course from Udemy)
